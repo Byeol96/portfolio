@@ -1,0 +1,108 @@
+@charset "EUC-KR";
+
+
+body {
+	border-style: double;
+	border-width: 15px;
+	width: 1200px;
+	height: 600px;
+	margin: 60px auto 0 auto;
+}
+
+#tableDiv {
+	float: left;
+	height: 600px;
+	width: 960px;
+}
+
+#nonTableDiv {
+	float: left;
+	height: 600px;
+	width: 240px;
+}
+
+
+.LeftImg{
+	
+	background-image: url(../img/TableLeft.jpg);
+}
+
+.LeftImg2{
+	
+	background-image: url(../img/Counter.jpg);
+}
+
+.RightImg{
+	
+		background-image: url(../img/TableRight.jpg);
+}
+.RightImg2{
+	
+		background-image: url(../img/Kitchen2.jpg);
+}
+
+.divTd {
+	/*border-radius: 25%;*/
+	width: 220px;
+	height: 120px;
+	box-sizing: border-box;
+	border: solid #5B6DCD 2px;
+	background-size : 220px 120px;
+}
+table {
+	margin: 0 auto 0 auto;
+}
+
+img {
+	height: 270px;
+	width: 230px;
+}
+
+#table2 {
+	margin-top: 16px;
+}
+
+div {
+	text-align: center;
+	position: relative;
+}
+.innerLeftDiv{
+	
+	width: 94px;
+	height: 43.2px;
+	margin-top : 38.4px;
+	
+}
+
+
+.innerRightDiv{
+	
+	width: 94px;
+	height: 43.2px;
+	margin-top : 38.4px;
+	float : right;
+}
+.innerLeftDiv2{
+	
+	width: 94px;
+	height: 21.6px;
+	margin-top : 49.2px;
+	
+}
+
+
+.innerRightDiv2{
+	
+	width: 94px;
+	height: 21.6px;
+	margin-top : 49.2px;
+	float : right;
+}
+
+#tableDiv{
+	overflow: auto
+}
+#tableDiv::-webkit-scrollbar {
+	display: none;
+}
+	

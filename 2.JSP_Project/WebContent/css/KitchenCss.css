@@ -1,0 +1,54 @@
+@charset "EUC-KR";
+
+
+body {
+	border-style: solid;
+	border-width: 2px;
+	width: 1200px;
+	height: 600px;
+	margin: 60px auto 0 auto;
+}
+
+div {
+	float: left;
+	height: 590px;
+	width: 590px;
+	margin: 2px 4px 2px 2px;
+	border-style: solid;
+	border-width: 2px;
+	border-style: solid;
+}
+
+table {
+	width: 580px;
+	margin-left: 5px;
+}
+
+.headerTr {
+	background-color: gray;
+}
+
+tr {
+	height: 25px;
+	width: 580px;
+}
+
+td {
+	text-align: center;
+}
+
+.col1 {
+	width: 120px;
+}
+
+.col2 {
+	
+}
+
+.col3 {
+	width: 100px;
+}
+
+.col4 {
+	width: 80px;
+}

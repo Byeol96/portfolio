@@ -1,0 +1,87 @@
+@charset "EUC-KR";
+
+
+body {
+	border: double 15px black;
+	width: 700px;
+	height: 300px;
+	margin: 20px auto 0 auto;
+}
+
+div {
+	float: left;
+}
+
+#orderList {
+	height: 270px;
+	width: 450px;
+	items-align: center;
+	overflow: auto;
+}
+
+#payMent {
+	height: 100px;
+	width: 200px;
+	text-align: center;
+	margin-top: 170px;
+}
+
+input[type=submit] {
+	width: 150px;
+	height: 40px;
+}
+
+#totalDiv {
+	float: none;
+	width: 660px;
+	height: 270px;
+	margin: 10px auto 0 auto;
+	display : flex;
+  align-items : center;
+   
+}
+
+table {
+	width: 400px;
+	
+	border: 1px solid #444444;
+	margin: 0 auto 0 auto;
+	border-collapse: collapse;
+}
+
+th, td {
+	border-bottom: 1px solid #444444;
+	text-align: center;
+	height : 30px;
+}
+
+th {
+	background-color: gray;
+}
+
+.orderNo {
+	width: 30px;
+}
+
+#orderList::-webkit-scrollbar {
+	display: none;
+}
+
+#tableNumber {
+	text-align: center;
+	font-weight: bold;
+	float: none;
+	position: sticky;
+	top: 0;
+	background-color: white;
+}
+#nonData{
+ width : 700px;
+ height : 25px;
+ text-align: center;
+font-weight : bold;
+}
+
+button{
+	margin-left : 60px;
+}

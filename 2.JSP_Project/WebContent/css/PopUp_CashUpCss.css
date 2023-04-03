@@ -1,0 +1,38 @@
+@charset "EUC-KR";
+
+body {
+	border: double 15px black;
+	width: 700px;
+	height: 300px;
+	margin: 20px auto 0 auto;
+}
+
+#totalDiv {
+	width: 650px;
+	height: 290px;
+	overflow: auto;
+}
+
+#orderList {
+	width: 600px;
+	height: 240px;
+	margin: 15px auto 10px auto;
+	text-align: center;
+}
+
+#dateSelect {
+	position: sticky;
+	top: 0;
+	background-color: white;
+}
+
+table {
+	width: 600px;
+	height: 300px;
+	margin: 0 auto 0 auto;
+	text-align: center;
+}
+
+#totalDiv::-webkit-scrollbar {
+	display: none;
+}
