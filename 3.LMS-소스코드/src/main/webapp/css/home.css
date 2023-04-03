@@ -1,0 +1,213 @@
+/* 
+
+#header{
+    background:white;   배경색
+    margin: 30px auto 0 auto;
+    width: 1200px;
+    height: 100px;
+    color: black;
+}   
+
+#content{
+    width: 1200px;
+    margin: 0 auto 0 auto;
+    background: pink;
+}
+
+.clearfix{
+    overflow: auto;
+}
+
+.main1{
+    width: 900px;
+    height: 400px;
+    float: left;
+    background: lightgreen;
+    color: black;
+    margin: 0 auto;
+}
+
+.login{
+    width: 300px;
+    height: 400px;
+    float: left;
+    background: url("/eclass/img/home/denim.jpg");
+    color: black;
+    margin: 0 auto;
+}
+
+.login .button{
+    align-items: center;
+}
+
+#main2{
+    background: rgb(69, 199, 188);    배경색
+    margin: 0 auto;
+    width: 1200px;
+    height: 90px;
+    color: rgb(77, 33, 33);
+    margin: 0 auto 0 auto;
+}   
+
+#main3{
+    background:rgb(252, 249, 249);    배경색
+    margin: 0 auto;
+    width: 1200px;
+    height: 360px;
+    color: rgb(77, 33, 33);
+    margin: 0 auto 0 auto;
+}   
+
+#footer{
+    background: rgb(61, 59, 59);    배경색
+    margin: 0 auto;
+    width: 1200px;
+    height: 250px;
+    color: rgb(77, 33, 33);
+    margin: 0 auto 0 auto;
+}   
+
+.button{
+    display: flex;  1. 부모먼저 flex해주기
+    flex-direction: column;
+    margin: 10px;
+    padding: 10px;
+    justify-content: space-between;
+}
+
+.btn-danger {
+    width: 90%;
+    height: 50px;
+    margin: 20px;
+}
+
+#mainLogin{
+    background: rgb(0, 164, 202);
+    border: rgb(0, 164, 202);
+    border-radius: 10px;
+}
+
+
+#loginBt{
+border-radius: 45px;
+width: 150px;
+height: 50px;
+border: rgb(56, 62, 90) 2px solid;
+background: rgb(248, 246, 246);
+color: black;
+float: right;
+margin: 20px 20px 0 0;
+}
+
+.btn-info {
+    width: 90%;
+    height: 50px;
+    margin: 20px;
+} */
+
+
+
+#header{
+    background:white;   /*배경색*/
+    margin: 30px auto 0 auto;
+    width: 1200px;
+    height: 100px;
+    color: black;
+}   
+
+#content{
+    width: 1200px;
+    margin: 0 auto 0 auto;
+    background: pink;
+}
+
+.clearfix{
+    overflow: auto;
+}
+
+.main1{
+    width: 900px;
+    height: 400px;
+    float: left;
+    background: lightgreen;
+    color: black;
+    margin: 0 auto;
+}
+
+.login{
+    width: 300px;
+    height: 400px;
+    float: left;
+    background: url("/eclass/img/home/denim.jpg");
+    color: black;
+    margin: 0 auto;
+}
+
+.login .button{
+    align-items: center;
+}
+
+#main2{
+    background: rgb(69, 199, 188);    /*배경색*/
+    margin: 0 auto;
+    width: 1200px;
+    height: 90px;
+    color: rgb(77, 33, 33);
+    margin: 0 auto 0 auto;
+}   
+
+#main3{
+    background:rgb(252, 249, 249);    /*배경색*/
+    margin: 0 auto;
+    width: 1200px;
+    height: 360px;
+    color: rgb(77, 33, 33);
+    margin: 0 auto 0 auto;
+}   
+
+#footer{
+    background: rgb(61, 59, 59);    /*배경색*/
+    margin: 0 auto;
+    width: 1200px;
+    height: 250px;
+    color: rgb(77, 33, 33);
+    margin: 0 auto 0 auto;
+}   
+
+.button{
+    display: flex;  /* 1. 부모먼저 flex해주기 */
+    flex-direction: column;
+    margin: 10px;
+    padding: 10px;
+    justify-content: space-between;
+}
+
+.btn-danger {
+    width: 90%;
+    height: 50px;
+    margin: 20px;
+}
+
+#mainLogin{
+    background: rgb(0, 164, 202);
+    border: rgb(0, 164, 202);
+    border-radius: 10px;
+}
+
+
+#loginBt{
+border-radius: 45px;
+width: 150px;
+height: 50px;
+border: rgb(56, 62, 90) 2px solid;
+background: rgb(248, 246, 246);
+color: black;
+float: right;
+margin: 20px 20px 0 0;
+}
+
+.btn-info {
+    width: 90%;
+    height: 50px;
+    margin: 20px;
+}

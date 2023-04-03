@@ -1,0 +1,132 @@
+/* #loginbox{
+    width: 30%;
+    height: 300px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 100px;
+    border-radius: 20px;
+    background: floralwhite;
+}
+#loginbox .panel-heading{
+    background: #009BCB;
+}
+
+.panel-title h3{
+    color: black;
+}
+
+.panel-info{
+    background: rgb(0, 164, 202);
+}
+
+.form-group .btn-info{
+    background: #009BCB;
+    margin-top: 5px;
+    width: 85%;
+    height: 100px;
+    font-size: 30px;
+    color: black;
+}
+
+
+label{
+    float: left;
+    margin-left: 22px;
+}
+
+#inputId{
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+#inutPassword{
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+} */
+
+#loginbox{
+    width: 30%;
+    height: 300px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 100px;
+    border-radius: 20px;
+    background: floralwhite;
+}
+#loginbox .panel-heading{
+    background: #009BCB;
+}
+
+.panel-title h3{
+    color: black;
+}
+
+.panel-info{
+    background: rgb(0, 164, 202);
+}
+
+.form-group .btn-info{
+    background: #009BCB;
+    margin-top: 5px;
+    width: 85%;
+    height: 100px;
+    font-size: 30px;
+    color: black;
+}
+
+
+label{
+    float: left;
+    margin-left: 22px;
+}
+
+#inputId{
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+#inutPassword{
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+/* modifyPasswordForm에 쓰이는 단독 css입니다.  */
+#changePassword{
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+#changePasswordConfrim{
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+
+.form-group .changePW{
+    background: #009BCB;
+    margin-top: 5px;
+    width: 20%;
+    height: 50px;
+    font-size: 15px;
+    color: black;
+}
+
+.form-group .goHome{
+    margin-top: 5px;
+    width: 20%;
+    height: 50px;
+    font-size: 15px;
+    color: black;
+}
+
+table{
+	width: 400px;
+	margin: 0 auto;
+}
+
